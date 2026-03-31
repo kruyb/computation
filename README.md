@@ -1,4 +1,4 @@
-# computation# computation
+# computation
 ## This repository is for projects aiding in basic-computation
 
 ### Projects:
