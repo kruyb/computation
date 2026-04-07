@@ -11,5 +11,5 @@
 1. Prime Checker - prime.py
 >Analytic Geometry
 1. Conic Indentifier - conic.py
->#### I am currently learning python and am a beginner in it. As mentioned above this repo will be for projects aiding in basic computation. Since I am a new, I have ignored the problem of execution time.Some parts of my code are refined by AI (not necessarily for all projects). I will soon be working on optimizing it further.I am open to suggestions.
+>#### I am currently learning python and am a beginner in it. As mentioned above this repo will be for projects aiding in basic computation. Since I am a new, I have ignored the problem of execution time. Some parts of my code are refined by AI (not necessarily for all projects). I will soon be working on optimizing it further. I am open to suggestions.
 ## Thank you.
