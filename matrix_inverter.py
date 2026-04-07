@@ -10,7 +10,7 @@ if q1 == "A":
     print(f"[{b1} {b2}]")
     det = a1*b2 - a2*b1
     if det ==0:
-        print("This is an non-invertible matrix")
+        print("This matrix is non-invertible")
     else:
         a_1 = a2/det
         a_2 = a1/det
