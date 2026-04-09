@@ -6,7 +6,7 @@
 1. Determinant calculator - det.py
 2. Matrix multiplier - matrixm.py
 3. Matrix Inverse Calculator - matrix_inverter.py
-4. 2 linear equations with 2 variables solver using Crammer's rule - 2v2esolver.py
+4. 2 linear equations with 2 variables solver using Cramer's rule - 2v2esolver.py
 #### The matrices have been only made till 3x3. Will work soon on generalizing to higher orders
 >Number Theory:
 1. Prime Checker - prime.py
