@@ -10,9 +10,11 @@
 #### The matrices have been only made till 3x3. Will work soon on generalizing to higher orders
 >Number Theory:
 1. Prime Checker - prime.py
->Analytic Geometry
+>Analytic Geometry:
 1. Conic Indentifier - conic.py
->Basic Algebra
+>Basic Algebra:
 1. Quadratic root finder - quadratic.py
+>Finance:
+1. Interest and Amount calculator (for both simple and compound) - interest.py
 >#### I am learning python and am new to it. As mentioned above this repo will be for projects aiding in basic computation. Since I am a new, I have ignored the problem of execution time.Some parts of my code are refined by the help of Artificial Intelligence (not necessarily for all projects). I will soon be working on optimizing it further trying to reduce run time or generalizing it further .I am open to suggestions.
 ## Thank you.
