@@ -10,6 +10,7 @@
 #### The matrices have been only made till 3x3. Will work soon on generalizing to higher orders
 >Number Theory:
 1. Prime Checker - prime.py
+2. Modulo Calculator - modulo.py
 >Analytic Geometry:
 1. Conic Indentifier - conic.py
 >Basic Algebra:
