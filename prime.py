@@ -10,4 +10,3 @@ else:
             verifier = True
             break
     print(f"{n} is not prime" if verifier else f"{n} is prime")
-
